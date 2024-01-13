@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795381501039",
+    "project_id": "heartdisease-51295",
+    "storage_bucket": "heartdisease-51295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795381501039:android:93fef28037877183cc919a",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoFkew_MCB3WL_7ZWzscVu2li698uqJKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
